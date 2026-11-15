@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+students.db
+node_modules/
+.expo/
+dist/
+.env
+.claude/
